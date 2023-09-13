@@ -258,7 +258,7 @@ li {
 
 .what {
   height: 100vh;
-  background: url("/img/1646997703_4-abrakadabra-fun-p-oboi-serii-gorod-4.jpg") no-repeat top center/cover;
+  background: url("../img/1646997703_4-abrakadabra-fun-p-oboi-serii-gorod-4.jpg") no-repeat top center/cover;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
